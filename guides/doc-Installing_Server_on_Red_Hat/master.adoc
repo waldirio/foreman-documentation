@@ -14,6 +14,8 @@ include::common/attributes.adoc[]
 = {project-installation-guide-title}
 
 == Preparing your Environment for Installation
+// Marcos Training
+
 // System Requirements
 include::common/modules/ref_system-requirements.adoc[leveloffset=+2]
 
